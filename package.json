@@ -1,0 +1,23 @@
+{
+  "name": "nhl_scores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkandy4108/NHL_Scores.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkandy4108/NHL_Scores/issues"
+  },
+  "homepage": "https://github.com/mkandy4108/NHL_Scores#readme"
+}
